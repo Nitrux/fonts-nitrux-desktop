@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: fonts-nx-desktop
-Source: https://github.com/Nitrux/fonts-nx-desktop
+Upstream-Name: fonts-nitrux-desktop
+Source: https://github.com/Nitrux/fonts-nitrux-desktop
 
 Files: *
 Copyright: <2017> Uri Herrera <uri_herrera@nxos.org>

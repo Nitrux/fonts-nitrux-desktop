@@ -1,12 +1,12 @@
-Source: fonts-nx-desktop
+Source: fonts-nitrux-desktop
 Section: fonts
-Priority: optional
+Priority: required
 Maintainer: Uri Herrera <uri_herrera@nxos.org>
 Build-Depends:
 Standards-Version: 3.9.6
 
-Package: fonts-nx-desktop
+Package: fonts-nitrux-desktop
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Fonts package for NX Desktop.
-  Fonts that are used in NX Desktop.
+Description: Fonts package for Nitrux.
+  Fonts that are used in Nitrux.
