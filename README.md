@@ -1,6 +1,6 @@
-# Fonts NX Desktop [![Build Status](https://travis-ci.org/Nitrux/fonts-nx-desktop.svg?branch=master)](https://travis-ci.org/Nitrux/fonts-nx-desktop)
+# Fonts Nitrux Desktop
 
-Fonts used in NX Desktop.
+Fonts used in Nitrux Desktop.
 
 # License
 Please check the individual licenses included.
