@@ -1,3 +1,9 @@
+fonts-nitrux-desktop (1.1.1) nitrux; urgency=medium
+
+  * Add Noto Sans Emoji.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 04 Dec 2025 06:11:00 -0500
+
 fonts-nitrux-desktop (1.1.0) nitrux; urgency=medium
 
   * Add Font Awesome 6.
