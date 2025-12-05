@@ -7,6 +7,6 @@ Standards-Version: 3.9.6
 
 Package: fonts-nitrux-desktop
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, fonts-noto-core, fonts-noto-cjk, fonts-ipafont, fonts-vlgothic, fonts-nanum, fonts-arphic-ukai, fonts-arphic-uming, fonts-arphic-bsmi00lp, fonts-arphic-gbsn00lp, fonts-thai-tlwg, fonts-roboto, fonts-dejavu, fonts-liberation2
 Description: Fonts package for Nitrux.
   Fonts that are used in Nitrux.
