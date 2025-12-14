@@ -3,7 +3,7 @@ Section: fonts
 Priority: required
 Maintainer: Uri Herrera <uri_herrera@nxos.org>
 Build-Depends:
-Standards-Version: 3.9.6
+Standards-Version: 4.6.2
 
 Package: fonts-nitrux-desktop
 Architecture: all
