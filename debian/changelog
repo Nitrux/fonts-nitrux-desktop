@@ -1,3 +1,9 @@
+fonts-nitrux-desktop (1.1.5) nitrux; urgency=medium
+
+  * Add Meslo Nerd Font Mono.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 04 May 2026 01:00:00 -0500
+
 fonts-nitrux-desktop (1.1.4) nitrux; urgency=medium
 
   * Replace Meslo Nerd Font with patched font files for p10k.
